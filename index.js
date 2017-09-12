@@ -1,3 +1,3 @@
 console.error("HALP!");
-console.console.log("I would be a logger");
-console.console.warn("Warning time");
+console.log("I would be a logger");
+console.warn("Warning time");
